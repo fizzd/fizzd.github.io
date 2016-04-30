@@ -9,6 +9,7 @@ categories: 'casper'
 navigation: True
 logo: 'assets/images/ghost.png'
 cover: 'assets/images/cover4.jpg'
+published: false
 ---
 
 I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
